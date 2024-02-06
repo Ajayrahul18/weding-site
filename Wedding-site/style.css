@@ -1,0 +1,61 @@
+.navbar {
+    background-color: black;
+    /* Add any other styling you need for the navbar */
+}
+
+.container-fluid {
+    position: relative;
+}
+
+
+/* .container img {
+    padding-top: 50%;
+} */
+
+.container-fluid a {
+    color: #8ab0ab;
+}
+
+.container-fluid img {
+    width: 200px; /* Adjust the width as needed */
+    height: 2000; /* Maintain aspect ratio */
+    margin-right: 50px; /* Reduced right margin for spacing */
+}
+
+/* Custom styles for the navigation bar links */
+.navbar-brand {
+    margin-right: 5px; /* Reduced right margin for spacing between links */
+}
+
+
+
+/* .container {
+    background-color: brown;
+} */
+
+.container img {
+    width: 200;
+    height: 200;
+}
+
+.content {
+    background-color: #1a1d1a;
+    color: #8ab0ab;
+    padding: 70px; 
+    padding-top: 10%;
+}
+
+.sec-content {
+    background-color: black;
+    color: #8ab0ab;
+}
+
+#last-content {
+    padding: 70px;
+}
+
+#sec-img img {
+    width: 200;
+    height: 200;
+}
+
